@@ -8,7 +8,7 @@ fi
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
-# Path to your oh-my-zsh installation.
+# Path to your oh-my-zsh installation. Change 'bilal' to your username.
 export ZSH="/home/bilal/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
